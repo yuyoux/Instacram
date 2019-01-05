@@ -1,0 +1,4 @@
+25/10/18     16:00   23:15   read specification and finish level 0
+26/10/18     13:00   22:00   finish level 1 and part of level 2
+27/10/18     13:00   22:00   finish level 0,1,2	
+28/10/18     13:00   18:00   finish level 0,1,2 (except pagination) & 3 (finished leave comments and show author profile)
